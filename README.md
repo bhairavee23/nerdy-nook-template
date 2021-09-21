@@ -1,1 +1,1 @@
-# template-wordpress
+# nerdy-nook-wordpress
